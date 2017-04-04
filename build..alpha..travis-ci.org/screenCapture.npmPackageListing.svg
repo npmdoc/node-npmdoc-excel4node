@@ -1,197 +1,197 @@
 <svg height="3102" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3102" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-04 06:46:51 +0000   989715 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-04 06:46:51 +0000     1013 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-04 06:46:51 +0000    21668 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-04 06:46:51 +0000    11471 byte  changelog.txt</tspan>
-<tspan x="10" y="90">  4.  2017-04-04 06:46:51 +0000     1496 byte  distribution/index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-04 06:46:51 +0000     2714 byte  distribution/index.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-04 06:46:51 +0000     3141 byte  distribution/lib/cell/cell.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-04 06:46:51 +0000     3740 byte  distribution/lib/cell/cell.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-04 06:46:51 +0000    14058 byte  distribution/lib/cell/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-04 06:46:51 +0000    24128 byte  distribution/lib/cell/index.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-04 06:46:51 +0000     2755 byte  distribution/lib/classes/ctMarker.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-04 06:46:51 +0000     2856 byte  distribution/lib/classes/ctMarker.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-04 06:46:51 +0000     5028 byte  distribution/lib/classes/definedNameCollection.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-04 06:46:51 +0000     7649 byte  distribution/lib/classes/definedNameCollection.js\</tspan>
+<tspan x="10" y="26">  0.  2017-04-04 06:48:19 +0000   989715 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-04 06:48:19 +0000     1013 byte  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-04 06:48:19 +0000    21668 byte  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-04 06:48:19 +0000    11471 byte  changelog.txt</tspan>
+<tspan x="10" y="90">  4.  2017-04-04 06:48:19 +0000     1496 byte  distribution/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-04 06:48:19 +0000     2714 byte  distribution/index.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-04 06:48:19 +0000     3141 byte  distribution/lib/cell/cell.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-04 06:48:19 +0000     3740 byte  distribution/lib/cell/cell.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-04 06:48:19 +0000    14058 byte  distribution/lib/cell/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-04 06:48:19 +0000    24128 byte  distribution/lib/cell/index.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-04 06:48:19 +0000     2755 byte  distribution/lib/classes/ctMarker.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-04 06:48:19 +0000     2856 byte  distribution/lib/classes/ctMarker.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-04 06:48:19 +0000     5028 byte  distribution/lib/classes/definedNameCollection.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-04 06:48:19 +0000     7649 byte  distribution/lib/classes/definedNameCollection.js\</tspan>
 <tspan x="10" y="250">.map</tspan>
-<tspan x="10" y="266"> 14.  2017-04-04 06:46:51 +0000     4105 byte  distribution/lib/classes/emu.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-04 06:46:51 +0000     4258 byte  distribution/lib/classes/emu.js.map</tspan>
-<tspan x="10" y="298"> 16.  2017-04-04 06:46:51 +0000      556 byte  distribution/lib/classes/point.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-04 06:46:51 +0000      699 byte  distribution/lib/classes/point.js.map</tspan>
-<tspan x="10" y="330"> 18.  2017-04-04 06:46:51 +0000     5340 byte  distribution/lib/column/column.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-04 06:46:51 +0000     6363 byte  distribution/lib/column/column.js.map</tspan>
-<tspan x="10" y="362"> 20.  2017-04-04 06:46:51 +0000      674 byte  distribution/lib/column/index.js</tspan>
-<tspan x="10" y="378"> 21.  2017-04-04 06:46:51 +0000     1314 byte  distribution/lib/column/index.js.map</tspan>
-<tspan x="10" y="394"> 22.  2017-04-04 06:46:51 +0000     6059 byte  distribution/lib/drawing/drawing.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-04 06:46:51 +0000     7093 byte  distribution/lib/drawing/drawing.js.map</tspan>
-<tspan x="10" y="426"> 24.  2017-04-04 06:46:51 +0000     1896 byte  distribution/lib/drawing/index.js</tspan>
-<tspan x="10" y="442"> 25.  2017-04-04 06:46:51 +0000     1586 byte  distribution/lib/drawing/index.js.map</tspan>
-<tspan x="10" y="458"> 26.  2017-04-04 06:46:51 +0000     9666 byte  distribution/lib/drawing/picture.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-04 06:46:51 +0000    13841 byte  distribution/lib/drawing/picture.js.map</tspan>
-<tspan x="10" y="490"> 28.  2017-04-04 06:46:51 +0000      823 byte  distribution/lib/row/index.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-04 06:46:51 +0000     1620 byte  distribution/lib/row/index.js.map</tspan>
-<tspan x="10" y="522"> 30.  2017-04-04 06:46:51 +0000     9010 byte  distribution/lib/row/row.js</tspan>
-<tspan x="10" y="538"> 31.  2017-04-04 06:46:51 +0000    11795 byte  distribution/lib/row/row.js.map</tspan>
-<tspan x="10" y="554"> 32.  2017-04-04 06:46:51 +0000     6929 byte  distribution/lib/style/classes/alignment.js</tspan>
-<tspan x="10" y="570"> 33.  2017-04-04 06:46:51 +0000    10216 byte  distribution/lib/style/classes/alignment.js.map</tspan>
-<tspan x="10" y="586"> 34.  2017-04-04 06:46:51 +0000     6842 byte  distribution/lib/style/classes/border.js</tspan>
-<tspan x="10" y="602"> 35.  2017-04-04 06:46:51 +0000     9217 byte  distribution/lib/style/classes/border.js.map</tspan>
-<tspan x="10" y="618"> 36.  2017-04-04 06:46:51 +0000     2950 byte  distribution/lib/style/classes/ctColor.js</tspan>
-<tspan x="10" y="634"> 37.  2017-04-04 06:46:51 +0000     3288 byte  distribution/lib/style/classes/ctColor.js.map</tspan>
-<tspan x="10" y="650"> 38.  2017-04-04 06:46:51 +0000     8121 byte  distribution/lib/style/classes/fill.js</tspan>
-<tspan x="10" y="666"> 39.  2017-04-04 06:46:51 +0000    11348 byte  distribution/lib/style/classes/fill.js.map</tspan>
-<tspan x="10" y="682"> 40.  2017-04-04 06:46:51 +0000     6647 byte  distribution/lib/style/classes/font.js</tspan>
-<tspan x="10" y="698"> 41.  2017-04-04 06:46:51 +0000    10356 byte  distribution/lib/style/classes/font.js.map</tspan>
-<tspan x="10" y="714"> 42.  2017-04-04 06:46:51 +0000     1865 byte  distribution/lib/style/classes/numberFormat.js</tspan>
-<tspan x="10" y="730"> 43.  2017-04-04 06:46:51 +0000     1502 byte  distribution/lib/style/classes/numberFormat.js.ma\</tspan>
+<tspan x="10" y="266"> 14.  2017-04-04 06:48:19 +0000     4105 byte  distribution/lib/classes/emu.js</tspan>
+<tspan x="10" y="282"> 15.  2017-04-04 06:48:19 +0000     4258 byte  distribution/lib/classes/emu.js.map</tspan>
+<tspan x="10" y="298"> 16.  2017-04-04 06:48:19 +0000      556 byte  distribution/lib/classes/point.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-04 06:48:19 +0000      699 byte  distribution/lib/classes/point.js.map</tspan>
+<tspan x="10" y="330"> 18.  2017-04-04 06:48:19 +0000     5340 byte  distribution/lib/column/column.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-04 06:48:19 +0000     6363 byte  distribution/lib/column/column.js.map</tspan>
+<tspan x="10" y="362"> 20.  2017-04-04 06:48:19 +0000      674 byte  distribution/lib/column/index.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-04 06:48:19 +0000     1314 byte  distribution/lib/column/index.js.map</tspan>
+<tspan x="10" y="394"> 22.  2017-04-04 06:48:19 +0000     6059 byte  distribution/lib/drawing/drawing.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-04 06:48:19 +0000     7093 byte  distribution/lib/drawing/drawing.js.map</tspan>
+<tspan x="10" y="426"> 24.  2017-04-04 06:48:19 +0000     1896 byte  distribution/lib/drawing/index.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-04 06:48:19 +0000     1586 byte  distribution/lib/drawing/index.js.map</tspan>
+<tspan x="10" y="458"> 26.  2017-04-04 06:48:19 +0000     9666 byte  distribution/lib/drawing/picture.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-04 06:48:19 +0000    13841 byte  distribution/lib/drawing/picture.js.map</tspan>
+<tspan x="10" y="490"> 28.  2017-04-04 06:48:19 +0000      823 byte  distribution/lib/row/index.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-04 06:48:19 +0000     1620 byte  distribution/lib/row/index.js.map</tspan>
+<tspan x="10" y="522"> 30.  2017-04-04 06:48:19 +0000     9010 byte  distribution/lib/row/row.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-04 06:48:19 +0000    11795 byte  distribution/lib/row/row.js.map</tspan>
+<tspan x="10" y="554"> 32.  2017-04-04 06:48:19 +0000     6929 byte  distribution/lib/style/classes/alignment.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-04 06:48:19 +0000    10216 byte  distribution/lib/style/classes/alignment.js.map</tspan>
+<tspan x="10" y="586"> 34.  2017-04-04 06:48:19 +0000     6842 byte  distribution/lib/style/classes/border.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-04 06:48:19 +0000     9217 byte  distribution/lib/style/classes/border.js.map</tspan>
+<tspan x="10" y="618"> 36.  2017-04-04 06:48:19 +0000     2950 byte  distribution/lib/style/classes/ctColor.js</tspan>
+<tspan x="10" y="634"> 37.  2017-04-04 06:48:19 +0000     3288 byte  distribution/lib/style/classes/ctColor.js.map</tspan>
+<tspan x="10" y="650"> 38.  2017-04-04 06:48:19 +0000     8121 byte  distribution/lib/style/classes/fill.js</tspan>
+<tspan x="10" y="666"> 39.  2017-04-04 06:48:19 +0000    11348 byte  distribution/lib/style/classes/fill.js.map</tspan>
+<tspan x="10" y="682"> 40.  2017-04-04 06:48:19 +0000     6647 byte  distribution/lib/style/classes/font.js</tspan>
+<tspan x="10" y="698"> 41.  2017-04-04 06:48:19 +0000    10356 byte  distribution/lib/style/classes/font.js.map</tspan>
+<tspan x="10" y="714"> 42.  2017-04-04 06:48:19 +0000     1865 byte  distribution/lib/style/classes/numberFormat.js</tspan>
+<tspan x="10" y="730"> 43.  2017-04-04 06:48:19 +0000     1502 byte  distribution/lib/style/classes/numberFormat.js.ma\</tspan>
 <tspan x="10" y="746">p</tspan>
-<tspan x="10" y="762"> 44.  2017-04-04 06:46:51 +0000       88 byte  distribution/lib/style/index.js</tspan>
-<tspan x="10" y="778"> 45.  2017-04-04 06:46:51 +0000      235 byte  distribution/lib/style/index.js.map</tspan>
-<tspan x="10" y="794"> 46.  2017-04-04 06:46:51 +0000    12099 byte  distribution/lib/style/style.js</tspan>
-<tspan x="10" y="810"> 47.  2017-04-04 06:46:51 +0000    17907 byte  distribution/lib/style/style.js.map</tspan>
-<tspan x="10" y="826"> 48.  2017-04-04 06:46:51 +0000     2250 byte  distribution/lib/types/alignment.js</tspan>
-<tspan x="10" y="842"> 49.  2017-04-04 06:46:51 +0000     4607 byte  distribution/lib/types/alignment.js.map</tspan>
-<tspan x="10" y="858"> 50.  2017-04-04 06:46:51 +0000      832 byte  distribution/lib/types/borderStyle.js</tspan>
-<tspan x="10" y="874"> 51.  2017-04-04 06:46:51 +0000     1905 byte  distribution/lib/types/borderStyle.js.map</tspan>
-<tspan x="10" y="890"> 52.  2017-04-04 06:46:51 +0000      691 byte  distribution/lib/types/cellComment.js</tspan>
-<tspan x="10" y="906"> 53.  2017-04-04 06:46:51 +0000     1516 byte  distribution/lib/types/cellComment.js.map</tspan>
-<tspan x="10" y="922"> 54.  2017-04-04 06:46:51 +0000      813 byte  distribution/lib/types/colorScheme.js</tspan>
-<tspan x="10" y="938"> 55.  2017-04-04 06:46:51 +0000     1872 byte  distribution/lib/types/colorScheme.js.map</tspan>
-<tspan x="10" y="954"> 56.  2017-04-04 06:46:51 +0000     3270 byte  distribution/lib/types/excelColor.js</tspan>
-<tspan x="10" y="970"> 57.  2017-04-04 06:46:51 +0000     6081 byte  distribution/lib/types/excelColor.js.map</tspan>
-<tspan x="10" y="986"> 58.  2017-04-04 06:46:51 +0000      910 byte  distribution/lib/types/fillPattern.js</tspan>
-<tspan x="10" y="1002"> 59.  2017-04-04 06:46:51 +0000     2092 byte  distribution/lib/types/fillPattern.js.map</tspan>
-<tspan x="10" y="1018"> 60.  2017-04-04 06:46:51 +0000      889 byte  distribution/lib/types/fontFamily.js</tspan>
-<tspan x="10" y="1034"> 61.  2017-04-04 06:46:51 +0000     1956 byte  distribution/lib/types/fontFamily.js.map</tspan>
-<tspan x="10" y="1050"> 62.  2017-04-04 06:46:51 +0000      341 byte  distribution/lib/types/index.js</tspan>
-<tspan x="10" y="1066"> 63.  2017-04-04 06:46:51 +0000      939 byte  distribution/lib/types/index.js.map</tspan>
-<tspan x="10" y="1082"> 64.  2017-04-04 06:46:51 +0000      702 byte  distribution/lib/types/orientation.js</tspan>
-<tspan x="10" y="1098"> 65.  2017-04-04 06:46:51 +0000     1528 byte  distribution/lib/types/orientation.js.map</tspan>
-<tspan x="10" y="1114"> 66.  2017-04-04 06:46:51 +0000      677 byte  distribution/lib/types/pageOrder.js</tspan>
-<tspan x="10" y="1130"> 67.  2017-04-04 06:46:51 +0000     1464 byte  distribution/lib/types/pageOrder.js.map</tspan>
-<tspan x="10" y="1146"> 68.  2017-04-04 06:46:51 +0000      693 byte  distribution/lib/types/pane.js</tspan>
-<tspan x="10" y="1162"> 69.  2017-04-04 06:46:51 +0000     1497 byte  distribution/lib/types/pane.js.map</tspan>
-<tspan x="10" y="1178"> 70.  2017-04-04 06:46:51 +0000      671 byte  distribution/lib/types/paneState.js</tspan>
-<tspan x="10" y="1194"> 71.  2017-04-04 06:46:51 +0000     1468 byte  distribution/lib/types/paneState.js.map</tspan>
-<tspan x="10" y="1210"> 72.  2017-04-04 06:46:51 +0000     5358 byte  distribution/lib/types/paperSize.js</tspan>
-<tspan x="10" y="1226"> 73.  2017-04-04 06:46:51 +0000    10283 byte  distribution/lib/types/paperSize.js.map</tspan>
-<tspan x="10" y="1242"> 74.  2017-04-04 06:46:51 +0000      578 byte  distribution/lib/types/positiveUniversalMeasure.j\</tspan>
+<tspan x="10" y="762"> 44.  2017-04-04 06:48:19 +0000       88 byte  distribution/lib/style/index.js</tspan>
+<tspan x="10" y="778"> 45.  2017-04-04 06:48:19 +0000      235 byte  distribution/lib/style/index.js.map</tspan>
+<tspan x="10" y="794"> 46.  2017-04-04 06:48:19 +0000    12099 byte  distribution/lib/style/style.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-04 06:48:19 +0000    17907 byte  distribution/lib/style/style.js.map</tspan>
+<tspan x="10" y="826"> 48.  2017-04-04 06:48:19 +0000     2250 byte  distribution/lib/types/alignment.js</tspan>
+<tspan x="10" y="842"> 49.  2017-04-04 06:48:19 +0000     4607 byte  distribution/lib/types/alignment.js.map</tspan>
+<tspan x="10" y="858"> 50.  2017-04-04 06:48:19 +0000      832 byte  distribution/lib/types/borderStyle.js</tspan>
+<tspan x="10" y="874"> 51.  2017-04-04 06:48:19 +0000     1905 byte  distribution/lib/types/borderStyle.js.map</tspan>
+<tspan x="10" y="890"> 52.  2017-04-04 06:48:19 +0000      691 byte  distribution/lib/types/cellComment.js</tspan>
+<tspan x="10" y="906"> 53.  2017-04-04 06:48:19 +0000     1516 byte  distribution/lib/types/cellComment.js.map</tspan>
+<tspan x="10" y="922"> 54.  2017-04-04 06:48:19 +0000      813 byte  distribution/lib/types/colorScheme.js</tspan>
+<tspan x="10" y="938"> 55.  2017-04-04 06:48:19 +0000     1872 byte  distribution/lib/types/colorScheme.js.map</tspan>
+<tspan x="10" y="954"> 56.  2017-04-04 06:48:19 +0000     3270 byte  distribution/lib/types/excelColor.js</tspan>
+<tspan x="10" y="970"> 57.  2017-04-04 06:48:19 +0000     6081 byte  distribution/lib/types/excelColor.js.map</tspan>
+<tspan x="10" y="986"> 58.  2017-04-04 06:48:19 +0000      910 byte  distribution/lib/types/fillPattern.js</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-04 06:48:19 +0000     2092 byte  distribution/lib/types/fillPattern.js.map</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-04 06:48:19 +0000      889 byte  distribution/lib/types/fontFamily.js</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-04 06:48:19 +0000     1956 byte  distribution/lib/types/fontFamily.js.map</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-04 06:48:19 +0000      341 byte  distribution/lib/types/index.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-04 06:48:19 +0000      939 byte  distribution/lib/types/index.js.map</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-04 06:48:19 +0000      702 byte  distribution/lib/types/orientation.js</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-04 06:48:19 +0000     1528 byte  distribution/lib/types/orientation.js.map</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-04 06:48:19 +0000      677 byte  distribution/lib/types/pageOrder.js</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-04 06:48:19 +0000     1464 byte  distribution/lib/types/pageOrder.js.map</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-04 06:48:19 +0000      693 byte  distribution/lib/types/pane.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-04 06:48:19 +0000     1497 byte  distribution/lib/types/pane.js.map</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-04 06:48:19 +0000      671 byte  distribution/lib/types/paneState.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-04 06:48:19 +0000     1468 byte  distribution/lib/types/paneState.js.map</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-04 06:48:19 +0000     5358 byte  distribution/lib/types/paperSize.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-04 06:48:19 +0000    10283 byte  distribution/lib/types/paperSize.js.map</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-04 06:48:19 +0000      578 byte  distribution/lib/types/positiveUniversalMeasure.j\</tspan>
 <tspan x="10" y="1258">s</tspan>
-<tspan x="10" y="1274"> 75.  2017-04-04 06:46:51 +0000     1088 byte  distribution/lib/types/positiveUniversalMeasure.j\</tspan>
+<tspan x="10" y="1274"> 75.  2017-04-04 06:48:19 +0000     1088 byte  distribution/lib/types/positiveUniversalMeasure.j\</tspan>
 <tspan x="10" y="1290">s.map</tspan>
-<tspan x="10" y="1306"> 76.  2017-04-04 06:46:51 +0000      681 byte  distribution/lib/types/printError.js</tspan>
-<tspan x="10" y="1322"> 77.  2017-04-04 06:46:51 +0000     1489 byte  distribution/lib/types/printError.js.map</tspan>
-<tspan x="10" y="1338"> 78.  2017-04-04 06:46:51 +0000     7462 byte  distribution/lib/utils.js</tspan>
-<tspan x="10" y="1354"> 79.  2017-04-04 06:46:51 +0000    14618 byte  distribution/lib/utils.js.map</tspan>
-<tspan x="10" y="1370"> 80.  2017-04-04 06:46:51 +0000    17970 byte  distribution/lib/workbook/builder.js</tspan>
-<tspan x="10" y="1386"> 81.  2017-04-04 06:46:51 +0000    34275 byte  distribution/lib/workbook/builder.js.map</tspan>
-<tspan x="10" y="1402"> 82.  2017-04-04 06:46:51 +0000     2683 byte  distribution/lib/workbook/dxfCollection.js</tspan>
-<tspan x="10" y="1418"> 83.  2017-04-04 06:46:51 +0000     2967 byte  distribution/lib/workbook/dxfCollection.js.map</tspan>
-<tspan x="10" y="1434"> 84.  2017-04-04 06:46:51 +0000       91 byte  distribution/lib/workbook/index.js</tspan>
-<tspan x="10" y="1450"> 85.  2017-04-04 06:46:51 +0000      241 byte  distribution/lib/workbook/index.js.map</tspan>
-<tspan x="10" y="1466"> 86.  2017-04-04 06:46:51 +0000     1472 byte  distribution/lib/workbook/mediaCollection.js</tspan>
-<tspan x="10" y="1482"> 87.  2017-04-04 06:46:51 +0000     1088 byte  distribution/lib/workbook/mediaCollection.js.map</tspan>
-<tspan x="10" y="1498"> 88.  2017-04-04 06:46:51 +0000     9565 byte  distribution/lib/workbook/workbook.js</tspan>
-<tspan x="10" y="1514"> 89.  2017-04-04 06:46:51 +0000    13100 byte  distribution/lib/workbook/workbook.js.map</tspan>
-<tspan x="10" y="1530"> 90.  2017-04-04 06:46:51 +0000    20891 byte  distribution/lib/worksheet/builder.js</tspan>
-<tspan x="10" y="1546"> 91.  2017-04-04 06:46:51 +0000    44075 byte  distribution/lib/worksheet/builder.js.map</tspan>
-<tspan x="10" y="1562"> 92.  2017-04-04 06:46:51 +0000     2638 byte  distribution/lib/worksheet/cf/cf_rule.js</tspan>
-<tspan x="10" y="1578"> 93.  2017-04-04 06:46:51 +0000     3430 byte  distribution/lib/worksheet/cf/cf_rule.js.map</tspan>
-<tspan x="10" y="1594"> 94.  2017-04-04 06:46:51 +0000      929 byte  distribution/lib/worksheet/cf/cf_rule_types.js</tspan>
-<tspan x="10" y="1610"> 95.  2017-04-04 06:46:51 +0000     1852 byte  distribution/lib/worksheet/cf/cf_rule_types.js.ma\</tspan>
+<tspan x="10" y="1306"> 76.  2017-04-04 06:48:19 +0000      681 byte  distribution/lib/types/printError.js</tspan>
+<tspan x="10" y="1322"> 77.  2017-04-04 06:48:19 +0000     1489 byte  distribution/lib/types/printError.js.map</tspan>
+<tspan x="10" y="1338"> 78.  2017-04-04 06:48:19 +0000     7462 byte  distribution/lib/utils.js</tspan>
+<tspan x="10" y="1354"> 79.  2017-04-04 06:48:19 +0000    14618 byte  distribution/lib/utils.js.map</tspan>
+<tspan x="10" y="1370"> 80.  2017-04-04 06:48:19 +0000    17970 byte  distribution/lib/workbook/builder.js</tspan>
+<tspan x="10" y="1386"> 81.  2017-04-04 06:48:19 +0000    34275 byte  distribution/lib/workbook/builder.js.map</tspan>
+<tspan x="10" y="1402"> 82.  2017-04-04 06:48:19 +0000     2683 byte  distribution/lib/workbook/dxfCollection.js</tspan>
+<tspan x="10" y="1418"> 83.  2017-04-04 06:48:19 +0000     2967 byte  distribution/lib/workbook/dxfCollection.js.map</tspan>
+<tspan x="10" y="1434"> 84.  2017-04-04 06:48:19 +0000       91 byte  distribution/lib/workbook/index.js</tspan>
+<tspan x="10" y="1450"> 85.  2017-04-04 06:48:19 +0000      241 byte  distribution/lib/workbook/index.js.map</tspan>
+<tspan x="10" y="1466"> 86.  2017-04-04 06:48:19 +0000     1472 byte  distribution/lib/workbook/mediaCollection.js</tspan>
+<tspan x="10" y="1482"> 87.  2017-04-04 06:48:19 +0000     1088 byte  distribution/lib/workbook/mediaCollection.js.map</tspan>
+<tspan x="10" y="1498"> 88.  2017-04-04 06:48:19 +0000     9565 byte  distribution/lib/workbook/workbook.js</tspan>
+<tspan x="10" y="1514"> 89.  2017-04-04 06:48:19 +0000    13100 byte  distribution/lib/workbook/workbook.js.map</tspan>
+<tspan x="10" y="1530"> 90.  2017-04-04 06:48:19 +0000    20891 byte  distribution/lib/worksheet/builder.js</tspan>
+<tspan x="10" y="1546"> 91.  2017-04-04 06:48:19 +0000    44075 byte  distribution/lib/worksheet/builder.js.map</tspan>
+<tspan x="10" y="1562"> 92.  2017-04-04 06:48:19 +0000     2638 byte  distribution/lib/worksheet/cf/cf_rule.js</tspan>
+<tspan x="10" y="1578"> 93.  2017-04-04 06:48:19 +0000     3430 byte  distribution/lib/worksheet/cf/cf_rule.js.map</tspan>
+<tspan x="10" y="1594"> 94.  2017-04-04 06:48:19 +0000      929 byte  distribution/lib/worksheet/cf/cf_rule_types.js</tspan>
+<tspan x="10" y="1610"> 95.  2017-04-04 06:48:19 +0000     1852 byte  distribution/lib/worksheet/cf/cf_rule_types.js.ma\</tspan>
 <tspan x="10" y="1626">p</tspan>
-<tspan x="10" y="1642"> 96.  2017-04-04 06:46:51 +0000     2137 byte  distribution/lib/worksheet/cf/cf_rules_collection\</tspan>
+<tspan x="10" y="1642"> 96.  2017-04-04 06:48:19 +0000     2137 byte  distribution/lib/worksheet/cf/cf_rules_collection\</tspan>
 <tspan x="10" y="1658">.js</tspan>
-<tspan x="10" y="1674"> 97.  2017-04-04 06:46:51 +0000     2079 byte  distribution/lib/worksheet/cf/cf_rules_collection\</tspan>
+<tspan x="10" y="1674"> 97.  2017-04-04 06:48:19 +0000     2079 byte  distribution/lib/worksheet/cf/cf_rules_collection\</tspan>
 <tspan x="10" y="1690">.js.map</tspan>
-<tspan x="10" y="1706"> 98.  2017-04-04 06:46:51 +0000     9319 byte  distribution/lib/worksheet/classes/dataValidation\</tspan>
+<tspan x="10" y="1706"> 98.  2017-04-04 06:48:19 +0000     9319 byte  distribution/lib/worksheet/classes/dataValidation\</tspan>
 <tspan x="10" y="1722">.js</tspan>
-<tspan x="10" y="1738"> 99.  2017-04-04 06:46:51 +0000    15249 byte  distribution/lib/worksheet/classes/dataValidation\</tspan>
+<tspan x="10" y="1738"> 99.  2017-04-04 06:48:19 +0000    15249 byte  distribution/lib/worksheet/classes/dataValidation\</tspan>
 <tspan x="10" y="1754">.js.map</tspan>
-<tspan x="10" y="1770">100.  2017-04-04 06:46:51 +0000     3462 byte  distribution/lib/worksheet/classes/hyperlink.js</tspan>
-<tspan x="10" y="1786">101.  2017-04-04 06:46:51 +0000     4016 byte  distribution/lib/worksheet/classes/hyperlink.js.m\</tspan>
+<tspan x="10" y="1770">100.  2017-04-04 06:48:19 +0000     3462 byte  distribution/lib/worksheet/classes/hyperlink.js</tspan>
+<tspan x="10" y="1786">101.  2017-04-04 06:48:19 +0000     4016 byte  distribution/lib/worksheet/classes/hyperlink.js.m\</tspan>
 <tspan x="10" y="1802">ap</tspan>
-<tspan x="10" y="1818">102.  2017-04-04 06:46:51 +0000       92 byte  distribution/lib/worksheet/index.js</tspan>
-<tspan x="10" y="1834">103.  2017-04-04 06:46:51 +0000      244 byte  distribution/lib/worksheet/index.js.map</tspan>
-<tspan x="10" y="1850">104.  2017-04-04 06:46:51 +0000     5916 byte  distribution/lib/worksheet/optsValidator.js</tspan>
-<tspan x="10" y="1866">105.  2017-04-04 06:46:51 +0000    10051 byte  distribution/lib/worksheet/optsValidator.js.map</tspan>
-<tspan x="10" y="1882">106.  2017-04-04 06:46:51 +0000     2802 byte  distribution/lib/worksheet/sheet_default_params.j\</tspan>
+<tspan x="10" y="1818">102.  2017-04-04 06:48:19 +0000       92 byte  distribution/lib/worksheet/index.js</tspan>
+<tspan x="10" y="1834">103.  2017-04-04 06:48:19 +0000      244 byte  distribution/lib/worksheet/index.js.map</tspan>
+<tspan x="10" y="1850">104.  2017-04-04 06:48:19 +0000     5916 byte  distribution/lib/worksheet/optsValidator.js</tspan>
+<tspan x="10" y="1866">105.  2017-04-04 06:48:19 +0000    10051 byte  distribution/lib/worksheet/optsValidator.js.map</tspan>
+<tspan x="10" y="1882">106.  2017-04-04 06:48:19 +0000     2802 byte  distribution/lib/worksheet/sheet_default_params.j\</tspan>
 <tspan x="10" y="1898">s</tspan>
-<tspan x="10" y="1914">107.  2017-04-04 06:46:51 +0000     4644 byte  distribution/lib/worksheet/sheet_default_params.j\</tspan>
+<tspan x="10" y="1914">107.  2017-04-04 06:48:19 +0000     4644 byte  distribution/lib/worksheet/sheet_default_params.j\</tspan>
 <tspan x="10" y="1930">s.map</tspan>
-<tspan x="10" y="1946">108.  2017-04-04 06:46:51 +0000    17290 byte  distribution/lib/worksheet/worksheet.js</tspan>
-<tspan x="10" y="1962">109.  2017-04-04 06:46:51 +0000    19544 byte  distribution/lib/worksheet/worksheet.js.map</tspan>
-<tspan x="10" y="1978">110.  2017-04-04 06:46:51 +0000     3452 byte  package.json</tspan>
-<tspan x="10" y="1994">111.  2017-04-04 06:46:51 +0000    14415 byte  sample.js</tspan>
-<tspan x="10" y="2010">112.  2017-04-04 06:46:51 +0000      304 byte  sampleFiles/invoiceData.json</tspan>
-<tspan x="10" y="2026">113.  2017-04-04 06:46:51 +0000    12221 byte  sampleFiles/logo.png</tspan>
-<tspan x="10" y="2042">114.  2017-04-04 06:46:51 +0000    28628 byte  sampleFiles/thumbs-up.jpg</tspan>
-<tspan x="10" y="2058">115.  2017-04-04 06:46:51 +0000    49065 byte  sampleFiles/thumbsUp.jpg</tspan>
-<tspan x="10" y="2074">116.  2017-04-04 06:46:51 +0000     1452 byte  source/index.js</tspan>
-<tspan x="10" y="2090">117.  2017-04-04 06:46:51 +0000     1767 byte  source/lib/cell/cell.js</tspan>
-<tspan x="10" y="2106">118.  2017-04-04 06:46:51 +0000    12111 byte  source/lib/cell/index.js</tspan>
-<tspan x="10" y="2122">119.  2017-04-04 06:46:51 +0000     1556 byte  source/lib/classes/ctMarker.js</tspan>
-<tspan x="10" y="2138">120.  2017-04-04 06:46:51 +0000     3566 byte  source/lib/classes/definedNameCollection.js</tspan>
-<tspan x="10" y="2154">121.  2017-04-04 06:46:51 +0000     2804 byte  source/lib/classes/emu.js</tspan>
-<tspan x="10" y="2170">122.  2017-04-04 06:46:51 +0000      369 byte  source/lib/classes/point.js</tspan>
-<tspan x="10" y="2186">123.  2017-04-04 06:46:51 +0000     3936 byte  source/lib/column/column.js</tspan>
-<tspan x="10" y="2202">124.  2017-04-04 06:46:51 +0000      618 byte  source/lib/column/index.js</tspan>
-<tspan x="10" y="2218">125.  2017-04-04 06:46:51 +0000     4595 byte  source/lib/drawing/drawing.js</tspan>
-<tspan x="10" y="2234">126.  2017-04-04 06:46:51 +0000      714 byte  source/lib/drawing/index.js</tspan>
-<tspan x="10" y="2250">127.  2017-04-04 06:46:51 +0000     7095 byte  source/lib/drawing/picture.js</tspan>
-<tspan x="10" y="2266">128.  2017-04-04 06:46:51 +0000      777 byte  source/lib/row/index.js</tspan>
-<tspan x="10" y="2282">129.  2017-04-04 06:46:51 +0000     7139 byte  source/lib/row/row.js</tspan>
-<tspan x="10" y="2298">130.  2017-04-04 06:46:51 +0000     5879 byte  source/lib/style/classes/alignment.js</tspan>
-<tspan x="10" y="2314">131.  2017-04-04 06:46:51 +0000     5316 byte  source/lib/style/classes/border.js</tspan>
-<tspan x="10" y="2330">132.  2017-04-04 06:46:51 +0000     1903 byte  source/lib/style/classes/ctColor.js</tspan>
-<tspan x="10" y="2346">133.  2017-04-04 06:46:51 +0000     6529 byte  source/lib/style/classes/fill.js</tspan>
-<tspan x="10" y="2362">134.  2017-04-04 06:46:51 +0000     5495 byte  source/lib/style/classes/font.js</tspan>
-<tspan x="10" y="2378">135.  2017-04-04 06:46:51 +0000      816 byte  source/lib/style/classes/numberFormat.js</tspan>
-<tspan x="10" y="2394">136.  2017-04-04 06:46:51 +0000       39 byte  source/lib/style/index.js</tspan>
-<tspan x="10" y="2410">137.  2017-04-04 06:46:51 +0000    10584 byte  source/lib/style/style.js</tspan>
-<tspan x="10" y="2426">138.  2017-04-04 06:46:51 +0000     2239 byte  source/lib/types/alignment.js</tspan>
-<tspan x="10" y="2442">139.  2017-04-04 06:46:51 +0000      874 byte  source/lib/types/borderStyle.js</tspan>
-<tspan x="10" y="2458">140.  2017-04-04 06:46:51 +0000      607 byte  source/lib/types/cellComment.js</tspan>
-<tspan x="10" y="2474">141.  2017-04-04 06:46:51 +0000      837 byte  source/lib/types/colorScheme.js</tspan>
-<tspan x="10" y="2490">142.  2017-04-04 06:46:51 +0000     3186 byte  source/lib/types/excelColor.js</tspan>
-<tspan x="10" y="2506">143.  2017-04-04 06:46:51 +0000      997 byte  source/lib/types/fillPattern.js</tspan>
-<tspan x="10" y="2522">144.  2017-04-04 06:46:51 +0000      850 byte  source/lib/types/fontFamily.js</tspan>
-<tspan x="10" y="2538">145.  2017-04-04 06:46:51 +0000      286 byte  source/lib/types/index.js</tspan>
-<tspan x="10" y="2554">146.  2017-04-04 06:46:51 +0000      618 byte  source/lib/types/orientation.js</tspan>
-<tspan x="10" y="2570">147.  2017-04-04 06:46:51 +0000      595 byte  source/lib/types/pageOrder.js</tspan>
-<tspan x="10" y="2586">148.  2017-04-04 06:46:51 +0000      616 byte  source/lib/types/pane.js</tspan>
-<tspan x="10" y="2602">149.  2017-04-04 06:46:51 +0000      589 byte  source/lib/types/paneState.js</tspan>
-<tspan x="10" y="2618">150.  2017-04-04 06:46:51 +0000     5271 byte  source/lib/types/paperSize.js</tspan>
-<tspan x="10" y="2634">151.  2017-04-04 06:46:51 +0000      511 byte  source/lib/types/positiveUniversalMeasure.js</tspan>
-<tspan x="10" y="2650">152.  2017-04-04 06:46:51 +0000      598 byte  source/lib/types/printError.js</tspan>
-<tspan x="10" y="2666">153.  2017-04-04 06:46:51 +0000     6927 byte  source/lib/utils.js</tspan>
-<tspan x="10" y="2682">154.  2017-04-04 06:46:51 +0000    17996 byte  source/lib/workbook/builder.js</tspan>
-<tspan x="10" y="2698">155.  2017-04-04 06:46:51 +0000     1307 byte  source/lib/workbook/dxfCollection.js</tspan>
-<tspan x="10" y="2714">156.  2017-04-04 06:46:51 +0000       42 byte  source/lib/workbook/index.js</tspan>
-<tspan x="10" y="2730">157.  2017-04-04 06:46:51 +0000      420 byte  source/lib/workbook/mediaCollection.js</tspan>
-<tspan x="10" y="2746">158.  2017-04-04 06:46:51 +0000     7612 byte  source/lib/workbook/workbook.js</tspan>
-<tspan x="10" y="2762">159.  2017-04-04 06:46:51 +0000    20804 byte  source/lib/worksheet/builder.js</tspan>
-<tspan x="10" y="2778">160.  2017-04-04 06:46:51 +0000     1610 byte  source/lib/worksheet/cf/cf_rule.js</tspan>
-<tspan x="10" y="2794">161.  2017-04-04 06:46:51 +0000      873 byte  source/lib/worksheet/cf/cf_rule_types.js</tspan>
-<tspan x="10" y="2810">162.  2017-04-04 06:46:51 +0000      950 byte  source/lib/worksheet/cf/cf_rules_collection.js</tspan>
-<tspan x="10" y="2826">163.  2017-04-04 06:46:51 +0000     7825 byte  source/lib/worksheet/classes/dataValidation.js</tspan>
-<tspan x="10" y="2842">164.  2017-04-04 06:46:51 +0000     1896 byte  source/lib/worksheet/classes/hyperlink.js</tspan>
-<tspan x="10" y="2858">165.  2017-04-04 06:46:51 +0000       43 byte  source/lib/worksheet/index.js</tspan>
-<tspan x="10" y="2874">166.  2017-04-04 06:46:51 +0000     5393 byte  source/lib/worksheet/optsValidator.js</tspan>
-<tspan x="10" y="2890">167.  2017-04-04 06:46:51 +0000     2758 byte  source/lib/worksheet/sheet_default_params.js</tspan>
-<tspan x="10" y="2906">168.  2017-04-04 06:46:51 +0000    15457 byte  source/lib/worksheet/worksheet.js</tspan>
-<tspan x="10" y="2922">169.  2017-04-04 06:46:51 +0000     2363 byte  tests/cell.test.js</tspan>
-<tspan x="10" y="2938">170.  2017-04-04 06:46:51 +0000     1156 byte  tests/cf_rule.test.js</tspan>
-<tspan x="10" y="2954">171.  2017-04-04 06:46:51 +0000      904 byte  tests/column.test.js</tspan>
-<tspan x="10" y="2970">172.  2017-04-04 06:46:51 +0000     4044 byte  tests/dataValidations.test.js</tspan>
-<tspan x="10" y="2986">173.  2017-04-04 06:46:51 +0000      781 byte  tests/hyperlink.test.js</tspan>
-<tspan x="10" y="3002">174.  2017-04-04 06:46:51 +0000     2240 byte  tests/image.test.js</tspan>
-<tspan x="10" y="3018">175.  2017-04-04 06:46:51 +0000     1821 byte  tests/library.test.js</tspan>
-<tspan x="10" y="3034">176.  2017-04-04 06:46:51 +0000      916 byte  tests/row.test.js</tspan>
-<tspan x="10" y="3050">177.  2017-04-04 06:46:51 +0000    15536 byte  tests/style.test.js</tspan>
-<tspan x="10" y="3066">178.  2017-04-04 06:46:51 +0000     1289 byte  tests/workbook.test.js</tspan>
-<tspan x="10" y="3082">179.  2017-04-04 06:46:51 +0000    21575 byte  tests/worksheet.test.js</tspan>
+<tspan x="10" y="1946">108.  2017-04-04 06:48:19 +0000    17290 byte  distribution/lib/worksheet/worksheet.js</tspan>
+<tspan x="10" y="1962">109.  2017-04-04 06:48:19 +0000    19544 byte  distribution/lib/worksheet/worksheet.js.map</tspan>
+<tspan x="10" y="1978">110.  2017-04-04 06:48:19 +0000     3452 byte  package.json</tspan>
+<tspan x="10" y="1994">111.  2017-04-04 06:48:19 +0000    14415 byte  sample.js</tspan>
+<tspan x="10" y="2010">112.  2017-04-04 06:48:19 +0000      304 byte  sampleFiles/invoiceData.json</tspan>
+<tspan x="10" y="2026">113.  2017-04-04 06:48:19 +0000    12221 byte  sampleFiles/logo.png</tspan>
+<tspan x="10" y="2042">114.  2017-04-04 06:48:19 +0000    28628 byte  sampleFiles/thumbs-up.jpg</tspan>
+<tspan x="10" y="2058">115.  2017-04-04 06:48:19 +0000    49065 byte  sampleFiles/thumbsUp.jpg</tspan>
+<tspan x="10" y="2074">116.  2017-04-04 06:48:19 +0000     1452 byte  source/index.js</tspan>
+<tspan x="10" y="2090">117.  2017-04-04 06:48:19 +0000     1767 byte  source/lib/cell/cell.js</tspan>
+<tspan x="10" y="2106">118.  2017-04-04 06:48:19 +0000    12111 byte  source/lib/cell/index.js</tspan>
+<tspan x="10" y="2122">119.  2017-04-04 06:48:19 +0000     1556 byte  source/lib/classes/ctMarker.js</tspan>
+<tspan x="10" y="2138">120.  2017-04-04 06:48:19 +0000     3566 byte  source/lib/classes/definedNameCollection.js</tspan>
+<tspan x="10" y="2154">121.  2017-04-04 06:48:19 +0000     2804 byte  source/lib/classes/emu.js</tspan>
+<tspan x="10" y="2170">122.  2017-04-04 06:48:19 +0000      369 byte  source/lib/classes/point.js</tspan>
+<tspan x="10" y="2186">123.  2017-04-04 06:48:19 +0000     3936 byte  source/lib/column/column.js</tspan>
+<tspan x="10" y="2202">124.  2017-04-04 06:48:19 +0000      618 byte  source/lib/column/index.js</tspan>
+<tspan x="10" y="2218">125.  2017-04-04 06:48:19 +0000     4595 byte  source/lib/drawing/drawing.js</tspan>
+<tspan x="10" y="2234">126.  2017-04-04 06:48:19 +0000      714 byte  source/lib/drawing/index.js</tspan>
+<tspan x="10" y="2250">127.  2017-04-04 06:48:19 +0000     7095 byte  source/lib/drawing/picture.js</tspan>
+<tspan x="10" y="2266">128.  2017-04-04 06:48:19 +0000      777 byte  source/lib/row/index.js</tspan>
+<tspan x="10" y="2282">129.  2017-04-04 06:48:19 +0000     7139 byte  source/lib/row/row.js</tspan>
+<tspan x="10" y="2298">130.  2017-04-04 06:48:19 +0000     5879 byte  source/lib/style/classes/alignment.js</tspan>
+<tspan x="10" y="2314">131.  2017-04-04 06:48:19 +0000     5316 byte  source/lib/style/classes/border.js</tspan>
+<tspan x="10" y="2330">132.  2017-04-04 06:48:19 +0000     1903 byte  source/lib/style/classes/ctColor.js</tspan>
+<tspan x="10" y="2346">133.  2017-04-04 06:48:19 +0000     6529 byte  source/lib/style/classes/fill.js</tspan>
+<tspan x="10" y="2362">134.  2017-04-04 06:48:19 +0000     5495 byte  source/lib/style/classes/font.js</tspan>
+<tspan x="10" y="2378">135.  2017-04-04 06:48:19 +0000      816 byte  source/lib/style/classes/numberFormat.js</tspan>
+<tspan x="10" y="2394">136.  2017-04-04 06:48:19 +0000       39 byte  source/lib/style/index.js</tspan>
+<tspan x="10" y="2410">137.  2017-04-04 06:48:19 +0000    10584 byte  source/lib/style/style.js</tspan>
+<tspan x="10" y="2426">138.  2017-04-04 06:48:19 +0000     2239 byte  source/lib/types/alignment.js</tspan>
+<tspan x="10" y="2442">139.  2017-04-04 06:48:19 +0000      874 byte  source/lib/types/borderStyle.js</tspan>
+<tspan x="10" y="2458">140.  2017-04-04 06:48:19 +0000      607 byte  source/lib/types/cellComment.js</tspan>
+<tspan x="10" y="2474">141.  2017-04-04 06:48:19 +0000      837 byte  source/lib/types/colorScheme.js</tspan>
+<tspan x="10" y="2490">142.  2017-04-04 06:48:19 +0000     3186 byte  source/lib/types/excelColor.js</tspan>
+<tspan x="10" y="2506">143.  2017-04-04 06:48:19 +0000      997 byte  source/lib/types/fillPattern.js</tspan>
+<tspan x="10" y="2522">144.  2017-04-04 06:48:19 +0000      850 byte  source/lib/types/fontFamily.js</tspan>
+<tspan x="10" y="2538">145.  2017-04-04 06:48:19 +0000      286 byte  source/lib/types/index.js</tspan>
+<tspan x="10" y="2554">146.  2017-04-04 06:48:19 +0000      618 byte  source/lib/types/orientation.js</tspan>
+<tspan x="10" y="2570">147.  2017-04-04 06:48:19 +0000      595 byte  source/lib/types/pageOrder.js</tspan>
+<tspan x="10" y="2586">148.  2017-04-04 06:48:19 +0000      616 byte  source/lib/types/pane.js</tspan>
+<tspan x="10" y="2602">149.  2017-04-04 06:48:19 +0000      589 byte  source/lib/types/paneState.js</tspan>
+<tspan x="10" y="2618">150.  2017-04-04 06:48:19 +0000     5271 byte  source/lib/types/paperSize.js</tspan>
+<tspan x="10" y="2634">151.  2017-04-04 06:48:19 +0000      511 byte  source/lib/types/positiveUniversalMeasure.js</tspan>
+<tspan x="10" y="2650">152.  2017-04-04 06:48:19 +0000      598 byte  source/lib/types/printError.js</tspan>
+<tspan x="10" y="2666">153.  2017-04-04 06:48:19 +0000     6927 byte  source/lib/utils.js</tspan>
+<tspan x="10" y="2682">154.  2017-04-04 06:48:19 +0000    17996 byte  source/lib/workbook/builder.js</tspan>
+<tspan x="10" y="2698">155.  2017-04-04 06:48:19 +0000     1307 byte  source/lib/workbook/dxfCollection.js</tspan>
+<tspan x="10" y="2714">156.  2017-04-04 06:48:19 +0000       42 byte  source/lib/workbook/index.js</tspan>
+<tspan x="10" y="2730">157.  2017-04-04 06:48:19 +0000      420 byte  source/lib/workbook/mediaCollection.js</tspan>
+<tspan x="10" y="2746">158.  2017-04-04 06:48:19 +0000     7612 byte  source/lib/workbook/workbook.js</tspan>
+<tspan x="10" y="2762">159.  2017-04-04 06:48:19 +0000    20804 byte  source/lib/worksheet/builder.js</tspan>
+<tspan x="10" y="2778">160.  2017-04-04 06:48:19 +0000     1610 byte  source/lib/worksheet/cf/cf_rule.js</tspan>
+<tspan x="10" y="2794">161.  2017-04-04 06:48:19 +0000      873 byte  source/lib/worksheet/cf/cf_rule_types.js</tspan>
+<tspan x="10" y="2810">162.  2017-04-04 06:48:19 +0000      950 byte  source/lib/worksheet/cf/cf_rules_collection.js</tspan>
+<tspan x="10" y="2826">163.  2017-04-04 06:48:19 +0000     7825 byte  source/lib/worksheet/classes/dataValidation.js</tspan>
+<tspan x="10" y="2842">164.  2017-04-04 06:48:19 +0000     1896 byte  source/lib/worksheet/classes/hyperlink.js</tspan>
+<tspan x="10" y="2858">165.  2017-04-04 06:48:19 +0000       43 byte  source/lib/worksheet/index.js</tspan>
+<tspan x="10" y="2874">166.  2017-04-04 06:48:19 +0000     5393 byte  source/lib/worksheet/optsValidator.js</tspan>
+<tspan x="10" y="2890">167.  2017-04-04 06:48:19 +0000     2758 byte  source/lib/worksheet/sheet_default_params.js</tspan>
+<tspan x="10" y="2906">168.  2017-04-04 06:48:19 +0000    15457 byte  source/lib/worksheet/worksheet.js</tspan>
+<tspan x="10" y="2922">169.  2017-04-04 06:48:19 +0000     2363 byte  tests/cell.test.js</tspan>
+<tspan x="10" y="2938">170.  2017-04-04 06:48:19 +0000     1156 byte  tests/cf_rule.test.js</tspan>
+<tspan x="10" y="2954">171.  2017-04-04 06:48:19 +0000      904 byte  tests/column.test.js</tspan>
+<tspan x="10" y="2970">172.  2017-04-04 06:48:19 +0000     4044 byte  tests/dataValidations.test.js</tspan>
+<tspan x="10" y="2986">173.  2017-04-04 06:48:19 +0000      781 byte  tests/hyperlink.test.js</tspan>
+<tspan x="10" y="3002">174.  2017-04-04 06:48:19 +0000     2240 byte  tests/image.test.js</tspan>
+<tspan x="10" y="3018">175.  2017-04-04 06:48:19 +0000     1821 byte  tests/library.test.js</tspan>
+<tspan x="10" y="3034">176.  2017-04-04 06:48:19 +0000      916 byte  tests/row.test.js</tspan>
+<tspan x="10" y="3050">177.  2017-04-04 06:48:19 +0000    15536 byte  tests/style.test.js</tspan>
+<tspan x="10" y="3066">178.  2017-04-04 06:48:19 +0000     1289 byte  tests/workbook.test.js</tspan>
+<tspan x="10" y="3082">179.  2017-04-04 06:48:19 +0000    21575 byte  tests/worksheet.test.js</tspan>
 </text>
 </svg>
