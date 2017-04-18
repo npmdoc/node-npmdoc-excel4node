@@ -173,6 +173,71 @@
 
     </ol></li>
 
+    <li class="apidocModuleLi"><a href="#apidoc.module.excel4node.Workbook">module excel4node.Workbook</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.excel4node.Workbook.Workbook">
+            function <span class="apidocSignatureSpan">excel4node.</span>Workbook
+            <span class="apidocSignatureSpan">(opts)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.excel4node.getExcelAlpha">module excel4node.getExcelAlpha</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.excel4node.getExcelAlpha.getExcelAlpha">
+            function <span class="apidocSignatureSpan">excel4node.</span>getExcelAlpha
+            <span class="apidocSignatureSpan">(colNum)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.excel4node.getExcelCellRef">module excel4node.getExcelCellRef</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.excel4node.getExcelCellRef.getExcelCellRef">
+            function <span class="apidocSignatureSpan">excel4node.</span>getExcelCellRef
+            <span class="apidocSignatureSpan">(rowNum, colNum)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.excel4node.getExcelRowCol">module excel4node.getExcelRowCol</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.excel4node.getExcelRowCol.getExcelRowCol">
+            function <span class="apidocSignatureSpan">excel4node.</span>getExcelRowCol
+            <span class="apidocSignatureSpan">(str)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.excel4node.getExcelTS">module excel4node.getExcelTS</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.excel4node.getExcelTS.getExcelTS">
+            function <span class="apidocSignatureSpan">excel4node.</span>getExcelTS
+            <span class="apidocSignatureSpan">(date)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
 </ol></div>
 
 <div class="apidocSectionDiv">
@@ -438,6 +503,269 @@ xl.getExcelTS(newDate);
 
 
 
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.excel4node.Workbook" id="apidoc.module.excel4node.Workbook">module excel4node.Workbook</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.excel4node.Workbook.Workbook" id="apidoc.element.excel4node.Workbook.Workbook">
+        function <span class="apidocSignatureSpan">excel4node.</span>Workbook
+        <span class="apidocSignatureSpan">(opts)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Workbook(opts) {
+    _classCallCheck(this, Workbook);
+
+    opts = opts ? opts : {};
+
+    this.logger = new SlothLogger.Logger({
+        logLevel: Number.isNaN(parseInt(opts.logLevel)) ? 0 : parseInt(opts.logLevel)
+    });
+
+    this.opts = _.merge({}, workbookDefaultOpts, opts);
+
+    this.sheets = [];
+    this.sharedStrings = [];
+    this.styles = [];
+    this.stylesLookup = {};
+    this.dxfCollection = new DXFCollection(this);
+    this.mediaCollection = new MediaCollection();
+    this.definedNameCollection = new DefinedNameCollection();
+    this.styleData = {
+        'numFmts': [],
+        'fonts': [],
+        'fills': [new Fill({ type: 'pattern', patternType: 'none' }), new Fill({ type: 'pattern', patternType: 'gray125' })],
+        'borders': [new Border()],
+        'cellXfs': [{
+            'borderId': null,
+            'fillId': null,
+            'fontId': 0,
+            'numFmtId': null
+        }]
+    };
+
+    // Lookups for style components to quickly find existing entries
+    // - Lookup keys are stringified JSON of a style's toObject result
+    // - Lookup values are the indexes for the actual entry in the styleData arrays
+    this.styleDataLookup = {
+        'fonts': {},
+        'fills': this.styleData.fills.reduce(function (ret, fill, index) {
+            ret[JSON.stringify(fill.toObject())] = index;
+            return ret;
+        }, {}),
+        'borders': this.styleData.borders.reduce(function (ret, border, index) {
+            ret[JSON.stringify(border.toObject())] = index;
+            return ret;
+        }, {})
+    };
+
+    // Set Default Font and Style
+    this.createStyle({ font: this.opts.defaultFont });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+### Basic Usage
+```javascript
+// Require library
+var xl = require('excel4node');
+
+// Create a new instance of a Workbook class
+var wb = new xl.<span class="apidocCodeKeywordSpan">Workbook</span>();
+
+// Add Worksheets to the workbook
+var ws = wb.addWorksheet('Sheet 1');
+var ws2 = wb.addWorksheet('Sheet 2');
+
+// Create a reusable style
+var style = wb.createStyle({
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.excel4node.getExcelAlpha" id="apidoc.module.excel4node.getExcelAlpha">module excel4node.getExcelAlpha</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.excel4node.getExcelAlpha.getExcelAlpha" id="apidoc.element.excel4node.getExcelAlpha.getExcelAlpha">
+        function <span class="apidocSignatureSpan">excel4node.</span>getExcelAlpha
+        <span class="apidocSignatureSpan">(colNum)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getExcelAlpha(colNum) {
+    var remaining = colNum;
+    var aCharCode = 65;
+    var columnName = '';
+    while (remaining &gt; 0) {
+        var mod = (remaining - 1) % 26;
+        columnName = String.fromCharCode(aCharCode + mod) + columnName;
+        remaining = (remaining - 1 - mod) / 26;
+    }
+    return columnName;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+Accepts cell reference (i.e. 'A1') and returns object with corresponding row and column
+
+```javascript
+xl.getExcelRowCol('B5');
+// returns { row: 5, col: 2}
+```
+
+xl.<span class="apidocCodeKeywordSpan">getExcelAlpha</span>(column)
+Accepts column as integer and returns corresponding column reference as alpha
+
+```javascript
+xl.getExcelAlpha(10);
+// returns 'J'
+```
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.excel4node.getExcelCellRef" id="apidoc.module.excel4node.getExcelCellRef">module excel4node.getExcelCellRef</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.excel4node.getExcelCellRef.getExcelCellRef" id="apidoc.element.excel4node.getExcelCellRef.getExcelCellRef">
+        function <span class="apidocSignatureSpan">excel4node.</span>getExcelCellRef
+        <span class="apidocSignatureSpan">(rowNum, colNum)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getExcelCellRef(rowNum, colNum) {
+    var remaining = colNum;
+    var aCharCode = 65;
+    var columnName = '';
+    while (remaining &gt; 0) {
+        var mod = (remaining - 1) % 26;
+        columnName = String.fromCharCode(aCharCode + mod) + columnName;
+        remaining = (remaining - 1 - mod) / 26;
+    }
+    return columnName + rowNum;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+Accepts column as integer and returns corresponding column reference as alpha
+
+```javascript
+xl.getExcelAlpha(10);
+// returns 'J'
+```
+
+xl.<span class="apidocCodeKeywordSpan">getExcelCellRef</span>(row, column)
+Accepts row and column as integers and returns Excel cell reference
+
+```javascript
+xl.getExcelCellRef(5, 3);
+// returns 'C5'
+```
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.excel4node.getExcelRowCol" id="apidoc.module.excel4node.getExcelRowCol">module excel4node.getExcelRowCol</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.excel4node.getExcelRowCol.getExcelRowCol" id="apidoc.element.excel4node.getExcelRowCol.getExcelRowCol">
+        function <span class="apidocSignatureSpan">excel4node.</span>getExcelRowCol
+        <span class="apidocSignatureSpan">(str)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getExcelRowCol(str) {
+    var numeric = str.split(/\D/).filter(function (el) {
+        return el !== '';
+    })[0];
+    var alpha = str.split(/\d/).filter(function (el) {
+        return el !== '';
+    })[0];
+    var row = parseInt(numeric, 10);
+    var col = alpha.toUpperCase().split('').reduce(function (a, b, index, arr) {
+        return a + (b.charCodeAt(0) - 64) * Math.pow(26, arr.length - index - 1);
+    }, 0);
+    return { row: row, col: col };
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+ws.cell(3,1).bool(true).style(style).style({font: {size: 14}});
+
+wb.write('Excel.xlsx');
+```
+## excelnode
+excel4node comes with some generic functions and types
+
+xl.<span class="apidocCodeKeywordSpan">getExcelRowCol</span>(cellRef)
+Accepts cell reference (i.e. 'A1') and returns object with corresponding row and column
+
+```javascript
+xl.getExcelRowCol('B5');
+// returns { row: 5, col: 2}
+```
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.excel4node.getExcelTS" id="apidoc.module.excel4node.getExcelTS">module excel4node.getExcelTS</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.excel4node.getExcelTS.getExcelTS" id="apidoc.element.excel4node.getExcelTS.getExcelTS">
+        function <span class="apidocSignatureSpan">excel4node.</span>getExcelTS
+        <span class="apidocSignatureSpan">(date)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getExcelTS(date) {
+
+    var thisDt = new Date(date);
+    thisDt.setDate(thisDt.getDate() + 1);
+    // Take timezone into account when calculating date
+    thisDt.setMinutes(thisDt.getMinutes() - thisDt.getTimezoneOffset());
+
+    var epoch = new Date(1899, 11, 31);
+    // Take timezone into account when calculating epoch
+    epoch.setMinutes(epoch.getMinutes() - epoch.getTimezoneOffset());
+
+    // Get milliseconds between date sent to function and epoch
+    var diff2 = thisDt.getTime() - epoch.getTime();
+
+    var ts = diff2 / (1000 * 60 * 60 * 24);
+    return ts;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+Accepts row and column as integers and returns Excel cell reference
+
+```javascript
+xl.getExcelCellRef(5, 3);
+// returns 'C5'
+```
+
+xl.<span class="apidocCodeKeywordSpan">getExcelTS</span>(date)
+Accepts Date object and returns an Excel timestamp
+
+```javascript
+var newDate = new Date('2015-01-01T00:00:00.0000Z');
+xl.getExcelTS(newDate);
+// Returns 42004.791666666664
+```
+...</pre></li>
+    </ul>
 
 
 </div>
