@@ -1,6 +1,6 @@
 # npmdoc-excel4node
 
-#### api documentation for  [excel4node (v1.2.1)](https://github.com/natergj/excel4node#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-excel4node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-excel4node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-excel4node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-excel4node)
+#### basic api documentation for  [excel4node (v1.2.1)](https://github.com/natergj/excel4node#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-excel4node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-excel4node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-excel4node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-excel4node)
 
 #### Library to create Formatted Excel Files.
 
@@ -98,7 +98,8 @@
         "test": "NODE_ENV=test ./node_modules/tape/bin/tape -r babel-register ./tests/*.test.js",
         "watch": "./node_modules/babel-cli/bin/babel.js source -w --presets babel-preset-es2015 -s --out-dir distribution"
     },
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "bin": {}
 }
 ```
 
