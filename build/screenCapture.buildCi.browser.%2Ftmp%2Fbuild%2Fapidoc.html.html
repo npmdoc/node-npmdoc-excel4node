@@ -1167,7 +1167,25 @@ if (okToMerge) {
     }
     throw new TypeError('Value sent to boolToInt must be true, false, 1 or 0');
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+    return new Promise(function (resolve, reject) {
+var o = promiseObj.ws.opts.sheetFormat;
+var ele = promiseObj.xml.ele('sheetFormatPr');
+
+o.baseColWidth !== null ? ele.att('baseColWidth', o.baseColWidth) : null;
+o.defaultColWidth !== null ? ele.att('defaultColWidth', o.defaultColWidth) : null;
+o.defaultRowHeight !== null ? ele.att('defaultRowHeight', o.defaultRowHeight) : ele.att('defaultRowHeight',
+16);
+o.thickBottom !== null ? ele.att('thickBottom', utils.<span class="apidocCodeKeywordSpan">boolToInt</span>(o.thickBottom
+)) : null;
+o.thickTop !== null ? ele.att('thickTop', utils.boolToInt(o.thickTop)) : null;
+
+if (typeof o.defaultRowHeight === 'number') {
+    ele.att('customHeight', '1');
+}
+ele.up();
+resolve(promiseObj);
+...</pre></li>
     </ul>
 
 
@@ -1433,7 +1451,23 @@ xl.getExcelTS(newDate);
 
     return finalHash;
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+    o.objects = o.objects !== null ? o.objects : true;
+    o.scenarios = o.scenarios !== null ? o.scenarios : true;
+
+    var ele = promiseObj.xml.ele('sheetProtection');
+    Object.keys(o).forEach(function (k) {
+        if (o[k] !== null) {
+            if (k === 'password') {
+                ele.att('password', utils.<span class="apidocCodeKeywordSpan">getHashOfPassword</span>(o[k]));
+            } else {
+                ele.att(k, utils.boolToInt(o[k]));
+            }
+        }
+    });
+    ele.up();
+})();
+...</pre></li>
     </ul>
 
 
